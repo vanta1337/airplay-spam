@@ -18,9 +18,9 @@ try:
         desc = {
             "ft": "0xA7FFFF7,0xE",
             "pt": "0",
-            "am": "VirtualCock (supergay GmbH )",
+            "am": "VirtualMachine (1337 GmbH )",
             "vs": "5.3.2",
-            "pf": "Windoof 10 Antihomosexual",
+            "pf": "Windope 10",
             "deviceid": "08:00:27:7B:DE:F3",
             "pk": "96c57560c07e592c3276edd81aac695be11d148d45349e09b4660ec5ac11e4f3",
             "pi": "FC1990B7-A5E1-4A2F-9B39-9628E0662306",
